@@ -1,3 +1,13 @@
+# Note: The other parts will be available soon .......
+
+# YOLOv8 models 
+
+SOON :)
+# Datasets 
+
+SOON :)
+
+
 # Object Size Classifier
 
 This project is designed to classify objects and compute their sizes from an input image. Follow the steps below to set up the environment and run the project.
