@@ -1,3 +1,6 @@
+> # Models weights will be available soon, 
+
+
 # Object Size Classifier
 
 This project is designed to classify objects and compute their sizes from an input image. Follow the steps below to set up the environment and run the project.
