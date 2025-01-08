@@ -1,5 +1,7 @@
 # [Optimized YOLOv8 for multi-scale object detection (paper)](https://link.springer.com/article/10.1007/s11554-024-01582-x)
 
+> ### To access the YAML files or request a copy of this paper please fill this short form. https://forms.gle/9Lt7A6YnvoJgjHcm9
+
 # 1- Required packages
 - ultralytics version 8.2.29
 - wandb version 0.19.1
