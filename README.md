@@ -1,4 +1,4 @@
-# [Optimized YOLOv8 for multi-scale object detection (paper)]([https://arxiv.org/abs/2412.14790](https://link.springer.com/article/10.1007/s11554-024-01582-x))
+# [Optimized YOLOv8 for multi-scale object detection (paper)](https://link.springer.com/article/10.1007/s11554-024-01582-x)
 
 # 1- Required packages
 - ultralytics version 8.2.29
