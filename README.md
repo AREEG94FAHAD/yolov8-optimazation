@@ -1,7 +1,19 @@
-> # Models weights will be available soon, 
+# [Optimized YOLOv8 for multi-scale object detection (paper)]([https://arxiv.org/abs/2412.14790](https://link.springer.com/article/10.1007/s11554-024-01582-x))
 
+# 1- Required packages
+- ultralytics version 8.2.29
+- wandb version 0.19.1
 
-# Object Size Classifier
+  
+# 2- Models weights
+- [YOLOv8-large](https://github.com/AREEG94FAHAD/yolov8-optimazation/tree/main/model-weights)
+- YOLOv8-small-->Soon
+- YOLOv8-medium-->Soon
+- YOLOv8-sm-->Soon
+- YOLOv8-ml-->Soon
+- YOLOv8-sl-->Soon
+
+# 2- Object Size Classifier
 
 This project is designed to classify objects and compute their sizes from an input image. Follow the steps below to set up the environment and run the project.
 
