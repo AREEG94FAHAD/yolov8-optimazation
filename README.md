@@ -12,7 +12,7 @@
 - [YOLOv8-small](https://github.com/AREEG94FAHAD/yolov8-optimazation/tree/main/model-weights)
 - YOLOv8-medium-->Soon
 - [YOLOv8-sm](https://github.com/AREEG94FAHAD/yolov8-optimazation/tree/main/model-weights)
-- YOLOv8-ml-->Soon
+- [YOLOv8-ml](https://github.com/AREEG94FAHAD/yolov8-optimazation/tree/main/model-weights)
 - YOLOv8-sl-->Soon
 
 # 3- Object Size Classifier
